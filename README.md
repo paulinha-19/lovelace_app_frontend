@@ -43,3 +43,7 @@ Tela "quem somos nós"
 Tela "nossas opções"
 
 ![Options Screen](./assets/screens-app/nossas-opcoes.png)
+
+
+# Informações adicionais
+Na tela "quem somos nós" passando o dedo para esquerda ou direta, é possível navegar entre as telas "nossas opções"
