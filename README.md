@@ -25,13 +25,21 @@ Escaneie o QR code com o aplicativo Expo Go ou pressione a tecla a no teclado pa
 ## Telas do APP
 
 Login
+
 ![Login Screen](./assets/screens-app/login.png)
 
+
+
+
+
 Aviso caso o usuário insira a senha incorreta
+
 ![Incorrect Password](./assets/screens-app/aviso-senha-incorreta.png)
 
 Tela "quem somos nós"
+
 ![Welcome Screen](./assets/screens-app/quem-somos-nos.png)
 
 Tela "nossas opções"
+
 ![Options Screen](./assets/screens-app/nossas-opcoes.png)
