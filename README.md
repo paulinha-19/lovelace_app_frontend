@@ -23,3 +23,8 @@ Baixe o Expo Go no seu dispositivo móvel (disponível na App Store e Google Pla
 Escaneie o QR code com o aplicativo Expo Go ou pressione a tecla a no teclado para abrir no simulador Android ou IOS.
 
 ## Telas do APP
+
+![Login Screen](./assets/login.png)
+![Incorrect Password](./assets/aviso-senha-incorreta.png)
+![Welcome Screen](./assets/quem-somos-nos.png)
+![Options Screen](./assets/nossas-opcoes.png)
